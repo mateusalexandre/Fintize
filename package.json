@@ -1,0 +1,16 @@
+{
+  "name": "Fintize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateusalexandre/Fintize.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
